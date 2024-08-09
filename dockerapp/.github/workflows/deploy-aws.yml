@@ -2,7 +2,7 @@ name: Deploy React to AWS
 on:
   push:
     branches:
-      - "CI-CD-Deploy-React-App-to-AWS-Elastic-Beanstalk"
+      - "Docker"
 
 jobs:
   deploy:
